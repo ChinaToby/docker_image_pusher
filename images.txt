@@ -1,5 +1,4 @@
 nginx
 memos
 ezbookkeeping
-blinkospace/blinko
-
+mysql
