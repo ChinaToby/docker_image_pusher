@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 neosmemo/memos:latest
 mayswind/ezbookkeeping:latest
+blinkospace/blinko:latest
