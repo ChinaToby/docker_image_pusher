@@ -1,5 +1,5 @@
 nginx
-neosmemo/memos
-mayswind/ezbookkeeping
+memos
+ezbookkeeping
 blinkospace/blinko
 
