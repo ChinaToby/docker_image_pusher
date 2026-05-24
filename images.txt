@@ -1,3 +1,4 @@
+linuxserver/calibre-web
 metacubex/mihomo
 openlistteam/openlist
 talebook/talebook
