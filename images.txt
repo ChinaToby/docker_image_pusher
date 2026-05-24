@@ -1,3 +1,4 @@
+adguard/adguardhome
 neosmemo/memos
 ghcr.io/mudkipme/mortis
 blinkospace/blinko
