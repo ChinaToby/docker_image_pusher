@@ -1,5 +1,5 @@
 docker.io/louislam/uptime-kuma
-louislam/uptime-kuma
+louislam/uptime-kuma:2
 fnsys/dockhand
 ghcr.io/mudkipme/mortis
 docuseal/docuseal
