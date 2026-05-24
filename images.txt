@@ -1,4 +1,3 @@
 nginx
-memos
-ezbookkeeping
-mysql
+mayswind/ezbookkeeping
+neosmemo/memos
