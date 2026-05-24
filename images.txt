@@ -1,3 +1,4 @@
+openlistteam/openlist
 talebook/talebook
 hanxi/mimusic:full
 louislam/uptime-kuma:2
