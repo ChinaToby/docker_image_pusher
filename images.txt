@@ -1,3 +1,4 @@
+hanxi/xiaomusic
 linuxserver/calibre-web
 metacubex/mihomo
 openlistteam/openlist
@@ -15,4 +16,4 @@ ghcr.io/mudkipme/mortis
 blinkospace/blinko
 vaultwarden/server
 mayswind/ezbookkeeping
-hanxi/xiaomusic
+
