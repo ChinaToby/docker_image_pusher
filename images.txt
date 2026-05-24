@@ -1,3 +1,4 @@
+docuseal/docuseal
 linzeyi/hivision_idphotos
 corentinth/enclosed
 adguard/adguardhome
