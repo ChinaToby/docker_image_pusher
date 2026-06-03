@@ -1,3 +1,4 @@
+neosmemo/memos
 hanxi/xiaomusic
 linuxserver/calibre-web
 metacubex/mihomo
@@ -11,7 +12,6 @@ docuseal/docuseal
 linzeyi/hivision_idphotos
 corentinth/enclosed
 adguard/adguardhome
-neosmemo/memos
 ghcr.io/mudkipme/mortis
 blinkospace/blinko
 vaultwarden/server
