@@ -1,5 +1,5 @@
 neosmemo/memos:0.29.0
-# mayswind/ezbookkeeping
+mayswind/ezbookkeeping:1.5.1
 # hanxi/xiaomusic
 # linuxserver/calibre-web
 # metacubex/mihomo
