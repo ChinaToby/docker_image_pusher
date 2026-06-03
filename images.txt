@@ -1,20 +1,20 @@
 neosmemo/memos
-mayswind/ezbookkeeping
-hanxi/xiaomusic
-linuxserver/calibre-web
-metacubex/mihomo
-openlistteam/openlist
-talebook/talebook
-hanxi/mimusic:full
-louislam/uptime-kuma:2
-fnsys/dockhand
-ghcr.io/mudkipme/mortis
-docuseal/docuseal
-linzeyi/hivision_idphotos
-corentinth/enclosed
-adguard/adguardhome
-ghcr.io/mudkipme/mortis
-blinkospace/blinko
-vaultwarden/server
+# mayswind/ezbookkeeping
+# hanxi/xiaomusic
+# linuxserver/calibre-web
+# metacubex/mihomo
+# openlistteam/openlist
+# talebook/talebook
+# hanxi/mimusic:full
+# louislam/uptime-kuma:2
+# fnsys/dockhand
+# ghcr.io/mudkipme/mortis
+# docuseal/docuseal
+# linzeyi/hivision_idphotos
+# corentinth/enclosed
+# adguard/adguardhome
+# ghcr.io/mudkipme/mortis
+# blinkospace/blinko
+# vaultwarden/server
 
 
