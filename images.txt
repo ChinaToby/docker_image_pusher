@@ -1,4 +1,4 @@
-neosmemo/memos
+neosmemo/memos:0.29.0
 # mayswind/ezbookkeeping
 # hanxi/xiaomusic
 # linuxserver/calibre-web
