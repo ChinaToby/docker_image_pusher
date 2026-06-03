@@ -1,4 +1,5 @@
 neosmemo/memos
+mayswind/ezbookkeeping
 hanxi/xiaomusic
 linuxserver/calibre-web
 metacubex/mihomo
@@ -15,5 +16,5 @@ adguard/adguardhome
 ghcr.io/mudkipme/mortis
 blinkospace/blinko
 vaultwarden/server
-mayswind/ezbookkeeping
+
 
