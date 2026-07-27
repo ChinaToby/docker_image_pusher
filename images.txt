@@ -1,7 +1,7 @@
 songloft/songloft:latest
 ghcr.io/iluobei/miaomiaowu:latest
 neosmemo/memos:0.29.0
-mayswind/ezbookkeeping:1.5.1
+mayswind/ezbookkeeping:1.6.1
 # hanxi/xiaomusic
 # linuxserver/calibre-web
 # metacubex/mihomo
