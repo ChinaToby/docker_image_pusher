@@ -1,4 +1,4 @@
-talebook/talebook
+talebook/talebook:v26.07.13
 songloft/songloft:latest
 mayswind/ezbookkeeping:1.6.1
 # metacubex/mihomo
@@ -8,7 +8,7 @@ openlistteam/openlist
 # louislam/uptime-kuma:2
 # fnsys/dockhand
 ghcr.io/mudkipme/mortis
-docuseal/docuseal
+docuseal/docuseal:3.1.6
 # linzeyi/hivision_idphotos
 corentinth/enclosed
 adguard/adguardhome
