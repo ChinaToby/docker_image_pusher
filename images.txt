@@ -1,9 +1,9 @@
+talebook/talebook
 songloft/songloft:latest
-neosmemo/memos:latest
 mayswind/ezbookkeeping:1.6.1
 # metacubex/mihomo
 openlistteam/openlist
-talebook/talebook
+
 # hanxi/mimusic:full
 # louislam/uptime-kuma:2
 # fnsys/dockhand
@@ -14,5 +14,5 @@ corentinth/enclosed
 adguard/adguardhome
 blinkospace/blinko
 vaultwarden/server
-
+neosmemo/memos
 
