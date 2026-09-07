@@ -3,7 +3,6 @@ songloft/songloft:latest
 mayswind/ezbookkeeping:1.6.1
 # metacubex/mihomo
 openlistteam/openlist
-
 # hanxi/mimusic:full
 # louislam/uptime-kuma:2
 # fnsys/dockhand
